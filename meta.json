@@ -1,0 +1,23 @@
+{
+  "repo": "streamyard-live-studio-producer",
+  "product": "StreamYard Live Studio Producer",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "streamyard-live-studio-producer",
+    "streamyard-live-producer",
+    "how-to-install-streamyard-live-producer",
+    "how-to-setup-streamyard-live-producer",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "streamyard-studio",
+    "streamyard-live-studio"
+  ],
+  "site": "unaflore.co",
+  "product_title": "StreamYard Live Studio Producer"
+}
